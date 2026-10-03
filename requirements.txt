@@ -1,0 +1,6 @@
+numpy
+pandas
+pygt3x==0.7.1
+PyQt5==5.15.11
+scipy
+agcounts==0.2.6
