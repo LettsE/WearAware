@@ -51,6 +51,7 @@ Reference for Troiano method: Troiano, R. P., D. Berrigan, K. W. Dodd, L. C. Mâ
 
 Reference for Ahmadi method: Ahmadi, M. N., N. Nathan, R. Sutherland, L. Wolfenden, and S. G. Trost. 2020. “Non-Wear or Sleep? Evaluation of Five Non-Wear Detection Algorithms for Raw Accelerometer Data.” Journal of Sports Sciences 38, no. 4: 399–404. https://doi.org/10.1080/02640414.2019.1703301.
 
+If you are looking to use nonwear methods not already included in Wear Aware, please contact [Elyse Letts](https://www.elyseletts.com/) for a potential collaboration.
 
 ## Input data
 
